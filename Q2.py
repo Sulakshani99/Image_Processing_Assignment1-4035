@@ -41,6 +41,7 @@ def spatial_average_filter(image_path, kernel_sizes):
 if __name__ == "__main__":
 
     print("\n---- Question 2: Spatial Average Filtering ----")
+    
     # Define the kernel sizes as requested
     kernel_sizes_to_apply = [(3, 3), (10, 10), (20, 20)]
     image_path_input = 'input_image.jpg' 

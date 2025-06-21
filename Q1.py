@@ -44,6 +44,7 @@ def reduce_intensity_levels(image_path, x):
 
 
 if __name__ == "__main__":
+    
     image_path_input = 'input_image.jpg' 
 
     print("---- Question 1: Reduce Number of Intensity Levels ----")
